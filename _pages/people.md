@@ -2,6 +2,8 @@
 layout: page
 permalink: /people/
 title: People
+nav: true
+nav_order: 1
 ---
 
 {% for person in site.data.members %}
