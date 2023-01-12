@@ -1,10 +1,8 @@
 - name: Daniel E. Hurtado
   degrees: PhD
   image: 
-  altimage: 
   position: Principal Investigator
   email: dhurtado@ing.puc.cl
-  twitter: ""
   website: 
   github: 
   scholar: 
@@ -14,10 +12,8 @@
 - name: David Ortiz Puerta
   degrees:
   image: 
-  altimage: 
   position: PhD student
   email:
-  twitter: ""
   website: 
   github: 
   scholar: 
@@ -27,10 +23,8 @@
 - name: Nibaldo Avilés Rojas
   degrees:
   image: 
-  altimage: 
   position: PhD student
   email:
-  twitter: ""
   website: 
   github: 
   scholar: 
@@ -40,10 +34,8 @@
 - name: José Barahona
   degrees:
   image: 
-  altimage: 
   position: PhD student
   email:
-  twitter: ""
   website: 
   github: 
   scholar: 
@@ -53,10 +45,8 @@
 - name: Benjamín Villa
   degrees:
   image: 
-  altimage: 
   position: MSc student
   email:
-  twitter: ""
   website: 
   github: 
   scholar: 
@@ -66,10 +56,8 @@
 - name: Niki Hamidi Vadeghani
   degrees:
   image: 
-  altimage: 
   position: MSc student
   email:
-  twitter: ""
   website: 
   github: 
   scholar: 
@@ -79,10 +67,8 @@
 - name: Victoria Alfaro
   degrees:
   image: 
-  altimage: 
   position: MSc student
   email:
-  twitter: ""
   website: 
   github: 
   scholar: 
@@ -92,10 +78,8 @@
 - name: Gustavo Barrezueta
   degrees:
   image: 
-  altimage: 
   position: MSc student
   email:
-  twitter: ""
   website: 
   github: 
   scholar: 
@@ -105,10 +89,8 @@
 - name: Bastián Herrera
   degrees:
   image: 
-  altimage: 
   position: Undergraduate researcher
   email:
-  twitter: ""
   website: 
   github: 
   scholar: 
@@ -118,10 +100,8 @@
 - name: Nicolás Barnafi Wittwer
   degrees: PhD
   image: 
-  altimage: 
   position: Postdoctoral researcher
   email:
-  twitter: ""
   website: 
   github: 
   scholar: 
@@ -131,10 +111,8 @@
 - name: Benjamín Erranz
   degrees: PhD
   image: 
-  altimage: 
   position: Research Engineer
   email:
-  twitter: ""
   website: 
   github: 
   scholar: 
@@ -144,11 +122,9 @@
 - name: Pablo Zurita Soler
   degrees: MSc
   image: 
-  altimage: 
   position: Research Engineer
   email: pzurita@uc.cl
-  twitter: "pablozuritas"
-  website: pzuritas.github.io
+  website: https://pzuritas.github.io
   github: pzuritas
   scholar: 16EmcJUAAAAJ
   orcid: 0000-0002-3417-9454
