@@ -43,7 +43,7 @@
   description:
 
 - name: Benjamín Villa
-  degrees:
+  degrees: BSc
   image: 
   position: MSc student
   email:
@@ -54,7 +54,7 @@
   description:
 
 - name: Niki Hamidi Vadeghani
-  degrees:
+  degrees: BSc
   image: 
   position: MSc student
   email:
@@ -121,11 +121,11 @@
 
 - name: Pablo Zurita Soler
   degrees: MSc
-  image: 
+  image: pablo_zurita_soler.jpg
   position: Research Engineer
   email: pzurita@uc.cl
   website: https://pzuritas.github.io
   github: pzuritas
   scholar: 16EmcJUAAAAJ
   orcid: 0000-0002-3417-9454
-  description:
+  description: I studied Biomedical Engineering and Applied Mathematics at PUC at the undergraduate and postgraduate level. Now I am focused on modelling perfusion and gas exchange at the alveolar level.
