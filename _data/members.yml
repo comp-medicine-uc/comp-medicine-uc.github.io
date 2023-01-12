@@ -121,7 +121,7 @@
 
 - name: Pablo Zurita Soler
   degrees: MSc
-  image: pablo_zurita_soler.jpg
+  image:
   position: Research Engineer
   email: pzurita@uc.cl
   website: https://pzuritas.github.io
