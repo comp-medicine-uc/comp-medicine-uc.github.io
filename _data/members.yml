@@ -1,5 +1,5 @@
 - name: Daniel E. Hurtado
-  degrees: PhD
+  degrees: PEng, PhD
   image: 
   position: Principal Investigator
   email: dhurtado@ing.puc.cl
@@ -109,7 +109,7 @@
   description:
 
 - name: Benjamín Erranz
-  degrees: PhD
+  degrees:
   image: 
   position: Research Engineer
   email:
@@ -121,7 +121,7 @@
 
 - name: Pablo Zurita Soler
   degrees: MSc
-  image:
+  image: pablo_zurita_soler.jpg
   position: Research Engineer
   email: pzurita@uc.cl
   website: https://pzuritas.github.io
