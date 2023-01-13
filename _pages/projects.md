@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: We work in various approaches to model the body.
-horizontal: true
+horizontal: false
 nav: true
 nav_order: 2
 ---

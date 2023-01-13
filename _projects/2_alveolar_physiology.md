@@ -2,7 +2,7 @@
 layout: page
 title: Alveolar physiology
 description: Gas exchange is carried out in the alveoli, micrometric structures in the lungs
-img: assets/img/3.jpg
+img:
 importance: 2
 category: work
 ---

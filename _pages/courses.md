@@ -3,7 +3,7 @@ layout: page
 title: Courses
 permalink: /courses/
 description: We teach several courses at PUC, here are some quick descriptions of them.
-horizontal: true
+horizontal: false
 nav: true
 nav_order: 4
 ---
