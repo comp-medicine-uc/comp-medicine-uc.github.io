@@ -10,7 +10,6 @@ nav_order: 1
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div id = "{{person.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div>
-        {% if person.image %}<img style="float: right; width: 20%; padding-left: 20px;" src="{{ person.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{person.name}}">{% endif %}
         <h4>{{person.name}}{% if person.degrees %}, {{person.degrees}} {% endif %}</h4> 
         {{person.position}} <br>
         <i class="fa fa-envelope"></i> <a href= "{{mailto:person.email}}" target="_blank">{{person.email}}</a> <br>
@@ -27,6 +26,7 @@ nav_order: 1
           <i class="ai ai-orcid"></i> <a href="http://{{person.orcid}}" target="_blank"> {{person.orcid}}</a> <br>
         {% endif %}
     </div>
+    {% if person.image %}<img style="float: right; width: 20%; padding-left: 20px;" src="{{ person.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{person.name}}">{% endif %}
     <div class="col-sm-8">
         <p>{{person.description | markdownify}}</p>
     </div>
