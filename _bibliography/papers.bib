@@ -14,3 +14,30 @@
   preview={avilesrojas_hurtado_2022.jpg},
   selected={true}
 }
+
+@article{ortiz2022snakes,
+  title={Snakes isogeometric analysis (siga): towards accurate and flexible geometrical models of the respiratory airways},
+  author={Ortiz-Puerta, David and Cox, Agustin and Hurtado, Daniel E},
+  journal={Computer Methods in Applied Mechanics and Engineering},
+  volume={394},
+  pages={114841},
+  year={2022},
+  publisher={Elsevier},
+  website={https://www.sciencedirect.com/science/article/abs/pii/S0045782522001529},
+  abstract={The construction of accurate patient-specific geometries from medical images is critical to achieving predictive numerical simulations of the respiratory system. However, the generation of surface representations of the airway tree is very challenging due to their complex morphology. In this work, we present a novel framework for creating Non-Uniform Rational B-Splines surface models of the respiratory airways. Our method relies on solving the variational formulation of the Snakes segmentation problem using Isogeometric Analysis (SIGA). We validate the SIGA method by comparing the resulting surface mesh against those delivered by two benchmark surface-fitting methods based on control-point projection. Our results confirm that SIGA outperforms the benchmark methods in creating surface models from computed-tomography images of a normal and a diseased lung. Further, we show that SIGA meshes adapt well to pathological airways with non-convex cross-sections where traditional surface-fitting methods fail. We envision that the geometrical flexibility and accuracy of SIGA will enhance the creation of computational models of the respiratory system under healthy and diseased conditions.},
+  code={https://github.com/comp-medicine-uc/snakes-isogeometric-analysis}
+}
+
+@article{cox2022mechanics,
+  title={Mechanics-informed snakes isogeometric analysis (MISIGA): an image-based method for the estimation of local deformation and strain in blood vessels},
+  author={Cox, Agust{\'\i}n and Ortiz-Puerta, David and Sotelo, Julio and Uribe, Sergio and Hurtado, Daniel E},
+  journal={Engineering with Computers},
+  volume={38},
+  number={5},
+  pages={4043--4060},
+  year={2022},
+  publisher={Springer},
+  website={https://link.springer.com/article/10.1007/s00366-022-01738-y},
+  abstract={Abnormal deformation of blood vessels has been related to the onset and progression of prevalent cardiovascular diseases. This mechanical connection has motivated the development of computational techniques to assess strain fields in the wall of the aorta from medical images. In this work, we present the mechanics-informed snakes isogeometric analysis (MISIGA) method, which provides seamless 3D estimations of strain fields in the full aorta from magnetic resonance images. Our approach leverages image segmentation formulations with advanced curvilinear representations of irregular vessels to capture the deformation mapping between two configurations captured by image datasets. We further inform this model by describing the motion of the aortic wall based on a Kirchhoff-Love shell approach, which allows us to construct continuous circumferential and longitudinal strain fields in the full aorta. We validate the MISIGA method using synthetically generated images from aortic mechanical simulations, obtaining errors in the strain estimation of 13.2 and 9.8 for the circumferential and longitudinal components. This performance compares favorably with other approaches that are not informed by mechanical considerations. Further, we apply the MISIGA method in the strain assessment of the aorta of a normal subject, which results in longitudinal and circumferential strain values that are in the range of those found in previous studies. We envision that the MISIGA method can open the way to seamless 3D high-fidelity analysis of local strain from medical images of the aorta and other vessels.},
+  code={https://github.com/comp-medicine-uc/mechanics-informed-SIGA}
+}
