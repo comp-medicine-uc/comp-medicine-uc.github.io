@@ -10,15 +10,15 @@
   description:
 
 - name: David Ortiz Puerta
-  degrees:
-  image: 
+  degrees: MSc
+  image: david_ortiz_puerta.jpg
   position: PhD student
-  email:
-  website: 
-  github: 
-  scholar: 
-  orcid: 
-  description:
+  email: dortiz5@uc.cl
+  website: https://github.com/dortiz5
+  github: dortiz5
+  scholar: https://scholar.google.com/citations?user=ifyKmJIAAAAJ&hl=en
+  orcid: 0000-0001-6285-3066
+  description: Image processing and IGA organ modeling.
 
 - name: Nibaldo Avilés Rojas
   degrees:
