@@ -5,25 +5,25 @@
   email: dhurtado@ing.puc.cl
   website: 
   github: 
-  scholar: 
+  scholar: NwCxlWoAAAAJ
   orcid: 
   description:
 
 - name: David Ortiz Puerta
   degrees: MSc
   image: david_ortiz_puerta.jpg
-  position: PhD student
+  position: PhD Student
   email: dortiz5@uc.cl
   website: https://github.com/dortiz5
   github: dortiz5
-  scholar: https://scholar.google.com/citations?user=ifyKmJIAAAAJ&hl=en
+  scholar: ifyKmJIAAAAJ
   orcid: 0000-0001-6285-3066
   description: Image processing and IGA organ modeling.
 
 - name: Nibaldo Avilés Rojas
   degrees:
   image: 
-  position: PhD student
+  position: PhD Student
   email:
   website: 
   github: 
@@ -34,7 +34,7 @@
 - name: José Barahona
   degrees:
   image: 
-  position: PhD student
+  position: PhD Student
   email:
   website: 
   github: 
@@ -45,7 +45,7 @@
 - name: Benjamín Villa
   degrees: BSc
   image: 
-  position: MSc student
+  position: MSc Student
   email:
   website: 
   github: 
@@ -56,7 +56,7 @@
 - name: Niki Hamidi Vadeghani
   degrees: BSc
   image: 
-  position: MSc student
+  position: MSc Student
   email:
   website: 
   github: 
@@ -67,7 +67,7 @@
 - name: Victoria Alfaro
   degrees:
   image: 
-  position: MSc student
+  position: MSc Student
   email:
   website: 
   github: 
@@ -78,7 +78,7 @@
 - name: Gustavo Barrezueta
   degrees:
   image: 
-  position: MSc student
+  position: MSc Student
   email:
   website: 
   github: 
@@ -89,7 +89,7 @@
 - name: Bastián Herrera
   degrees:
   image: 
-  position: Undergraduate researcher
+  position: Undergraduate Student
   email:
   website: 
   github: 
@@ -100,7 +100,7 @@
 - name: Nicolás Barnafi Wittwer
   degrees: PhD
   image: 
-  position: Postdoctoral researcher
+  position: Postdoctoral Researcher
   email:
   website: 
   github: 
@@ -128,4 +128,4 @@
   github: pzuritas
   scholar: 16EmcJUAAAAJ
   orcid: 0000-0002-3417-9454
-  description: I am focused on modelling perfusion and gas exchange in alveoli, both in the computational and the mathematical sense.
+  description: Applied and numerical analysis in perfusion and gas exchange modelling.
