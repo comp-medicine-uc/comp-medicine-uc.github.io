@@ -12,7 +12,7 @@ profile:
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
-nav: false
+nav: true
 ---
 
 We are a research group led by [Daniel E. Hurtado](https://www.researchgate.net/profile/Daniel-Hurtado-4). We focus on modeling human pathophysiology in order to advance medicinal practices and knowledge. Our house is the [Institute for Biological and Medical Engineering](https://ingenieriabiologicaymedica.uc.cl/en/) in [Pontificia Universidad Católica de Chile](https://www.uc.cl/en), which belongs simultaneously to the [Faculty of Engineering](https://www.ing.uc.cl/en/), the [Faculty of Medicine](https://medicina.uc.cl/) and the [Faculty of Biological Sciences](https://biologia.uc.cl/).
