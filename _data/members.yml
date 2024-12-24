@@ -14,11 +14,11 @@
   image: agustin_perez_fuentes.JPG
   position: PhD Student
   email: agustin.perez@uc.cl
-  website: 
+  website: https://github.com/perezfue
   github: perezfue
   scholar: 
   orcid: 
-  description:
+  description: Image processing and IGA organ modeling.
 
 - name: David Ortiz Puerta
   degrees: MSc
@@ -33,10 +33,10 @@
 
 - name: Nibaldo Avilés Rojas
   degrees: MSc
-  image: 
+  image: nibaldo_aviles_rojas.JPG
   position: PhD Student
   email: nbaviles@uc.cl
-  website: 
+  website: https://github.com/nbaviles
   github: nbaviles
   scholar: 
   orcid: 
