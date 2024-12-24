@@ -1,8 +1,8 @@
 - name: Daniel E. Hurtado
   degrees: PEng, PhD
-  image: 
+  image: daniel_hurtado_sepulveda.JPG
   position: Principal Investigator
-  email: dhurtado@ing.puc.cl
+  email: daniel.hurtado@uc.cl
   website: 
   github: 
   scholar: NwCxlWoAAAAJ
@@ -10,10 +10,10 @@
   description:
 
 - name: Agustín Perez
-  degrees:
-  image: 
+  degrees: MSc
+  image: agustin_perez_fuentes.JPG
   position: PhD Student
-  email:
+  email: agustin.perez@uc.cl
   website: 
   github: perezfue
   scholar: 
@@ -32,10 +32,10 @@
   description: Image processing and IGA organ modeling.
 
 - name: Nibaldo Avilés Rojas
-  degrees:
+  degrees: MSc
   image: 
   position: PhD Student
-  email:
+  email: nbaviles@uc.cl
   website: 
   github: nbaviles
   scholar: 
@@ -43,7 +43,7 @@
   description:
 
 - name: José Barahona
-  degrees:
+  degrees: BSc
   image: jose_barahona_yanez.JPG
   position: PhD Student
   email: jibarahona@uc.cl
@@ -103,6 +103,17 @@
   position: Undergraduate Student
   email:
   website: 
+  github: 
+  scholar: 
+  orcid: 
+  description:
+
+- name: César Santis
+  degrees: MD
+  image: 
+  position: PhD Student
+  email:
+  website: https://www.researchgate.net/profile/Cesar-Santis-Fuentes
   github: 
   scholar: 
   orcid: 
