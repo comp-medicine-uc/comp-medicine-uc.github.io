@@ -9,6 +9,17 @@
   orcid: 
   description:
 
+- name: Agustín Perez
+  degrees:
+  image: 
+  position: PhD Student
+  email:
+  website: 
+  github: perezfue
+  scholar: 
+  orcid: 
+  description:
+
 - name: David Ortiz Puerta
   degrees: MSc
   image: david_ortiz_puerta.jpg
@@ -26,7 +37,7 @@
   position: PhD Student
   email:
   website: 
-  github: 
+  github: nbaviles
   scholar: 
   orcid: 
   description:
@@ -35,12 +46,12 @@
   degrees:
   image: 
   position: PhD Student
-  email:
-  website: 
-  github: 
+  email: jibarahona@uc.cl
+  website: https://josebarahonay.github.io/
+  github: josebarahonay
   scholar: 
   orcid: 
-  description:
+  description: Machine learning and multi-fidelity methods for surrogate modeling.
 
 - name: Benjamín Villa
   degrees: BSc
