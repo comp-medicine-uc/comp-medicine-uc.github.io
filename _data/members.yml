@@ -9,16 +9,16 @@
   orcid: 
   description:
 
-- name: Agustín Perez
-  degrees: MSc
-  image: agustin_perez_fuentes.JPG
-  position: PhD Student
-  email: agustin.perez@uc.cl
-  website: https://github.com/perezfue
-  github: perezfue
+- name: Victoria Alfaro
+  degrees:
+  image: 
+  position: MSc Student
+  email:
+  website: 
+  github: 
   scholar: 
   orcid: 
-  description: Image processing and IGA organ modeling.
+  description:
 
 - name: Nibaldo Avilés Rojas
   degrees: MSc
@@ -43,20 +43,9 @@
   description: Multi-fidelity machine learning for surrogate modeling.
 
 - name: Niki Hamidi Vadeghani
-  degrees: BSc
+  degrees: MSc
   image: 
-  position: MSc Student
-  email:
-  website: 
-  github: 
-  scholar: 
-  orcid: 
-  description:
-
-- name: Victoria Alfaro
-  degrees:
-  image: 
-  position: MSc Student
+  position:
   email:
   website: 
   github: 
@@ -74,6 +63,17 @@
   scholar: 
   orcid: 
   description:
+
+- name: Agustín Perez
+  degrees: MSc
+  image: agustin_perez_fuentes.JPG
+  position: PhD Student
+  email: agustin.perez@uc.cl
+  website: https://github.com/perezfue
+  github: perezfue
+  scholar: 
+  orcid: 
+  description: Image processing and IGA organ modeling.
 
 - name: César Santis
   degrees: MD
